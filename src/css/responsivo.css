@@ -1,0 +1,269 @@
+@media (max-width: 769px) { 
+    main::after {
+        background: linear-gradient(0deg, #000 20%, rgba(0, 0, 0, 0) 65%) no-repeat; 
+        width: 100vw;
+    }
+
+    main .personagem .imagem {
+        max-height: 100vh;
+    }
+
+    .conteudo {
+        justify-content: flex-end;
+        left: 0;
+        top: -15%;
+        max-width: 160vh;
+        padding: 30px;
+    }
+    .conteudo .nome-personagem {
+        font-size: 25px;
+    }
+
+    .conteudo .descricao{
+        max-width: 400px;
+    }
+
+    .botoes {
+        flex-direction: row;
+        align-items: flex-end;
+        width: 100%;
+        padding: 20px;
+    }
+
+    .botoes .botao img{
+        max-width: 90px;
+        height: 90px;
+    }
+}
+
+@media (max-width: 425px) {
+    main .personagem .imagem {
+        height: auto;
+    }
+
+    .conteudo .logo {
+        width: 200px;
+        height: 90px;
+    }
+
+    .conteudo {
+        top: -25%;
+    }
+
+    .conteudo .nome-personagem {
+        font-size: 34px;
+    }
+
+    .botoes {
+        padding: 30px;
+        top: -10%;
+    }
+
+    .botoes .botao img {
+        width: 70px;
+        height: 70px;
+    }
+}
+
+@media (max-width: 360px) {
+    main .personagem .imagem {
+        height: auto;
+    }
+
+    .conteudo .logo {
+        width: 200px;
+        height: 90px;
+    }
+
+    .conteudo {
+        top: -25%;
+    }
+
+    .conteudo .nome-personagem {
+        font-size: 34px;
+    }
+
+    .botoes {
+        padding: 30px;
+        top: -10%;
+    }
+
+    .botoes .botao img {
+        width: 60px;
+        height: 60px;
+    }
+}
+
+@media (max-width: 384px) {
+    main .personagem .imagem {
+        height: auto;
+    }
+
+    .conteudo .logo {
+        width: 200px;
+        height: 90px;
+    }
+
+    .conteudo {
+        top: -25%;
+    }
+
+    .conteudo .nome-personagem {
+        font-size: 34px;
+    }
+
+    .botoes {
+        padding: 30px;
+        top: -10%;
+    }
+
+    .botoes .botao img {
+        width: 65px;
+        height: 65px;
+    }
+}
+
+@media (max-width: 395px) {
+    main .personagem .imagem {
+        height: auto;
+    }
+
+    .conteudo .logo {
+        width: 200px;
+        height: 90px;
+    }
+
+    .conteudo {
+        top: -25%;
+    }
+
+    .conteudo .nome-personagem {
+        font-size: 34px;
+    }
+
+    .botoes {
+        padding: 30px;
+        top: -10%;
+    }
+
+    .botoes .botao img {
+        width: 60px;
+        height: 60px;
+    }
+}
+
+@media (max-width: 393px) {
+    main .personagem .imagem {
+        height: auto;
+    }
+
+    .conteudo .logo {
+        width: 200px;
+        height: 90px;
+    }
+
+    .conteudo {
+        top: -25%;
+    }
+
+    .conteudo .nome-personagem {
+        font-size: 34px;
+    }
+
+    .botoes {
+        padding: 30px;
+        top: -10%;
+    }
+
+    .botoes .botao img {
+        width: 70px;
+        height: 70px;
+    }
+}
+
+@media (max-width: 430px) {
+    main .personagem .imagem {
+        height: auto;
+    }
+
+    .conteudo .logo {
+        width: 200px;
+        height: 90px;
+    }
+
+    .conteudo {
+        top: -25%;
+    }
+
+    .conteudo .nome-personagem {
+        font-size: 34px;
+    }
+
+    .botoes {
+        padding: 30px;
+        top: -10%;
+    }
+
+    .botoes .botao img {
+        width: 50px;
+        height: 50px;
+    }
+}
+
+@media (max-width: 480px) {
+    main .personagem .imagem {
+        height: auto;
+    }
+
+    .conteudo .logo {
+        width: 200px;
+        height: 90px;
+    }
+
+    .conteudo {
+        top: -25%;
+    }
+
+    .conteudo .nome-personagem {
+        font-size: 34px;
+    }
+
+    .botoes {
+        padding: 30px;
+        top: -10%;
+    }
+
+    .botoes .botao img {
+        width: 80px;
+        height: 80px;
+    }
+}
+
+@media (max-width: 372px) {
+    main .personagem .imagem {
+        height: auto;
+    }
+
+    .conteudo .logo {
+        width: 200px;
+        height: 90px;
+    }
+
+    .conteudo {
+        top: -25%;
+    }
+
+    .conteudo .nome-personagem {
+        font-size: 34px;
+    }
+
+    .botoes {
+        padding: 20px;
+        top: -10%;
+    }
+
+    .botoes .botao img {
+        width: 60px;
+        height: 60px;
+    }
+}
